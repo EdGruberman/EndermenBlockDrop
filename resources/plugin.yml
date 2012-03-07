@@ -1,0 +1,5 @@
+name: @NAME@
+description: Endermen that die will drop the block they are carrying
+version: @VERSION@
+author: @AUTHOR@
+main: edgruberman.bukkit.endermenblockdrop.Main
